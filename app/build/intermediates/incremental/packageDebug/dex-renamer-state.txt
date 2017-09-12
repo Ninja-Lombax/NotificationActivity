@@ -1,0 +1,7 @@
+#Mon Sep 11 20:36:29 CDT 2017
+base.0=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_11c80c18e62a886adf7a5ff617edbbb389d79d3e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_20ee067e0e8fc03e3e8d04061056c5ae91195732\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_20ee067e0e8fc03e3e8d04061056c5ae91195732
+file.0=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_11c80c18e62a886adf7a5ff617edbbb389d79d3e\\classes.dex

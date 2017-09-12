@@ -1,0 +1,25 @@
+#Mon Sep 11 20:36:28 CDT 2017
+renamed.7=classes7.dex
+renamed.6=classes4.dex
+renamed.5=classes3.dex
+renamed.4=classes5.dex
+renamed.3=classes6.dex
+renamed.2=classes2.dex
+renamed.1=classes8.dex
+renamed.0=classes.dex
+base.7=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_98727a871d36adb99eb20197aeef305aa3685946
+base.6=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bdea37693810cf4c0e5d77bb1cd1096370de5fa5
+base.5=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59073659c0f2eafd6ef7ef8811d903cfa659bd99
+base.4=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c9a55a7b3a5bed2a98db93a65ab7af5adc9c1db1
+base.3=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d1156ae1cd695369eaf62611659937a420cc675e
+base.2=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_210c5bdc67b9ef360cb7959b65a9e9ece45c06b9
+base.1=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_c0b97d5354c41782b0d37bbac4b07afd2d706873
+base.0=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1831ce0e74e77d7aeb3bf0fcf79131cf776e9291
+file.7=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_98727a871d36adb99eb20197aeef305aa3685946\\classes.dex
+file.6=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bdea37693810cf4c0e5d77bb1cd1096370de5fa5\\classes.dex
+file.5=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59073659c0f2eafd6ef7ef8811d903cfa659bd99\\classes.dex
+file.4=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c9a55a7b3a5bed2a98db93a65ab7af5adc9c1db1\\classes.dex
+file.3=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d1156ae1cd695369eaf62611659937a420cc675e\\classes.dex
+file.2=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_210c5bdc67b9ef360cb7959b65a9e9ece45c06b9\\classes.dex
+file.1=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_c0b97d5354c41782b0d37bbac4b07afd2d706873\\classes.dex
+file.0=D\:\\AndroidStudioProjects\\Android Notifications\\Exercise Files\\Start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1831ce0e74e77d7aeb3bf0fcf79131cf776e9291\\classes.dex
